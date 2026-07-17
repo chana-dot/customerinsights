@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://customerinsights.org/sitemap.xml
